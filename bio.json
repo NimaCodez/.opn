@@ -1,5 +1,6 @@
-  "version": 1,
-  "name": "Nima Core",
+{
+"version": 1,
+  "name": "Nima's Core",
   "description": "Coding & Living.",
   "style": {
     "theme": "dark",
