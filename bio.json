@@ -1,0 +1,53 @@
+
+  "version": 1,
+  "name": "Nima's Core",
+  "description": "Coding & Living.",
+  "style": {
+    "theme": "dark",
+    "font": "serif"
+  },
+  "sections": [
+    {
+      "title": "Experience",
+      "type": "list",
+      "items": [
+        {
+          "title": "Omransara",
+          "description": "Backend Developer // Online & Offline Classes For Civil Eng. students.",
+          "url": "https://omransara.ir",
+          "date": "2024–Present"
+        },
+        {
+          "title": "Keygn",
+          "description": "Developer // Creating secure keys in different formats.",
+          "url": "https://github.com/NimaCodez/keygn",
+          "date": "2024"
+        },
+        {
+          "title": "Ghofly, Inc.",
+          "description": "Backend Developer // A Gamification Platform.",
+          "url": "https://ghofly.com/",
+          "date": "2023"
+        }
+      ]
+    },
+    {
+      "title": "Socials",
+      "type": "links",
+      "links": [
+        {
+          "title": "Website",
+          "url": "https://nimacodes.com"
+        },
+        {
+          "title": "GitHub",
+          "url": "https://github.com/NimaCodez"
+        },
+        {
+          "title": "Telegram",
+          "url": "https://t.me/NimaCodes"
+        }
+      ]
+    }
+  ]
+}
